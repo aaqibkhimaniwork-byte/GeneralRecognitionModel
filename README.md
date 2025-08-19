@@ -1,1 +1,1 @@
-The basis of this project represents how we can identify people in photoes using their picture. 
+The model operates using 2 libraries, dlib and yolov11, in accordance with opencv. 
