@@ -1,0 +1,1 @@
+The basis of this project represents how we can identify people in photoes using their picture. 
